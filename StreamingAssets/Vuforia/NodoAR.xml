@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="2wall" size="2.800000 3.448466" />
+    <ImageTarget name="nodo_first" size="2.000000 3.550000" />
+  </Tracking>
+</QCARConfig>
